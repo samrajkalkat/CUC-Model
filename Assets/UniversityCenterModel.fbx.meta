@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 665f3c41411c74ff0b38c0befdbd0300
+timeCreated: 1590712280
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BuildingMesh-00007
+    100002: BuildingMesh-00010
+    100004: BuildingMesh-00011
+    100006: BuildingMesh-00012
+    100008: BuildingMesh-00013
+    100010: BuildingMesh-00019
+    100012: BuildingMesh-00020
+    100014: BuildingMesh-00028
+    100016: BuildingMesh-00029
+    100018: BuildingMesh-00031
+    100020: BuildingMesh-00034
+    100022: BuildingMesh-00035
+    100024: BuildingMesh-00036
+    100026: BuildingMesh-00037
+    100028: BuildingMesh-00040
+    100030: BuildingMesh-00041
+    100032: BuildingMesh-00043
+    100034: BuildingMesh-00044
+    100036: BuildingMesh-00045
+    100038: BuildingMesh-00046
+    100040: BuildingMesh-00047
+    100042: BuildingMesh-00049
+    100044: BuildingMesh-00050
+    100046: Camera
+    100048: Cube
+    100050: Light
+    100052: //RootNode
+    400000: BuildingMesh-00007
+    400002: BuildingMesh-00010
+    400004: BuildingMesh-00011
+    400006: BuildingMesh-00012
+    400008: BuildingMesh-00013
+    400010: BuildingMesh-00019
+    400012: BuildingMesh-00020
+    400014: BuildingMesh-00028
+    400016: BuildingMesh-00029
+    400018: BuildingMesh-00031
+    400020: BuildingMesh-00034
+    400022: BuildingMesh-00035
+    400024: BuildingMesh-00036
+    400026: BuildingMesh-00037
+    400028: BuildingMesh-00040
+    400030: BuildingMesh-00041
+    400032: BuildingMesh-00043
+    400034: BuildingMesh-00044
+    400036: BuildingMesh-00045
+    400038: BuildingMesh-00046
+    400040: BuildingMesh-00047
+    400042: BuildingMesh-00049
+    400044: BuildingMesh-00050
+    400046: Camera
+    400048: Cube
+    400050: Light
+    400052: //RootNode
+    2000000: Camera
+    2300000: BuildingMesh-00007
+    2300002: BuildingMesh-00010
+    2300004: BuildingMesh-00011
+    2300006: BuildingMesh-00012
+    2300008: BuildingMesh-00013
+    2300010: BuildingMesh-00019
+    2300012: BuildingMesh-00020
+    2300014: BuildingMesh-00028
+    2300016: BuildingMesh-00029
+    2300018: BuildingMesh-00031
+    2300020: BuildingMesh-00034
+    2300022: BuildingMesh-00035
+    2300024: BuildingMesh-00036
+    2300026: BuildingMesh-00037
+    2300028: BuildingMesh-00040
+    2300030: BuildingMesh-00041
+    2300032: BuildingMesh-00043
+    2300034: BuildingMesh-00044
+    2300036: BuildingMesh-00045
+    2300038: BuildingMesh-00046
+    2300040: BuildingMesh-00047
+    2300042: BuildingMesh-00049
+    2300044: BuildingMesh-00050
+    2300046: Cube
+    3300000: BuildingMesh-00007
+    3300002: BuildingMesh-00010
+    3300004: BuildingMesh-00011
+    3300006: BuildingMesh-00012
+    3300008: BuildingMesh-00013
+    3300010: BuildingMesh-00019
+    3300012: BuildingMesh-00020
+    3300014: BuildingMesh-00028
+    3300016: BuildingMesh-00029
+    3300018: BuildingMesh-00031
+    3300020: BuildingMesh-00034
+    3300022: BuildingMesh-00035
+    3300024: BuildingMesh-00036
+    3300026: BuildingMesh-00037
+    3300028: BuildingMesh-00040
+    3300030: BuildingMesh-00041
+    3300032: BuildingMesh-00043
+    3300034: BuildingMesh-00044
+    3300036: BuildingMesh-00045
+    3300038: BuildingMesh-00046
+    3300040: BuildingMesh-00047
+    3300042: BuildingMesh-00049
+    3300044: BuildingMesh-00050
+    3300046: Cube
+    4300000: Cube
+    4300002: BuildingMesh-00007
+    4300004: BuildingMesh-00010
+    4300006: BuildingMesh-00011
+    4300008: BuildingMesh-00012
+    4300010: BuildingMesh-00013
+    4300012: BuildingMesh-00019
+    4300014: BuildingMesh-00020
+    4300016: BuildingMesh-00028
+    4300018: BuildingMesh-00029
+    4300020: BuildingMesh-00031
+    4300022: BuildingMesh-00034
+    4300024: BuildingMesh-00035
+    4300026: BuildingMesh-00036
+    4300028: BuildingMesh-00037
+    4300030: BuildingMesh-00040
+    4300032: BuildingMesh-00041
+    4300034: BuildingMesh-00043
+    4300036: BuildingMesh-00044
+    4300038: BuildingMesh-00045
+    4300040: BuildingMesh-00046
+    4300042: BuildingMesh-00047
+    4300044: BuildingMesh-00049
+    4300046: BuildingMesh-00050
+    10800000: Light
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00007
+    second: {fileID: 2100000, guid: feaf24ec89c8742aeb5a92d96a20b75f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00010
+    second: {fileID: 2100000, guid: 96614a98284fc4a83b1f691842ef5049, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00011
+    second: {fileID: 2100000, guid: 88a5ba9e1d14d4b94b3c7a06d9752b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00012
+    second: {fileID: 2100000, guid: 9d5ae99fc26c548d7b3b2e042edbb0d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00013
+    second: {fileID: 2100000, guid: 1123e6897dc2d44d2a4594e4aab2f2e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00019
+    second: {fileID: 2100000, guid: f5b90dcdc865344bd82236a7772bebab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00020
+    second: {fileID: 2100000, guid: 30e9b34215999400cbb77ee32e5a8606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00028
+    second: {fileID: 2100000, guid: f5d1d92c42ede464bb0bf0ea08835539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00029
+    second: {fileID: 2100000, guid: 7dbef1f070772450889a47c8ad650f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00031
+    second: {fileID: 2100000, guid: f09855f87ff4940dd8c6d25f87e45e57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00034
+    second: {fileID: 2100000, guid: edb1daceb1f31402ea0389cf56d1a7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00035
+    second: {fileID: 2100000, guid: 2b171f4cd197e4b86907d05dc0d76626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00036
+    second: {fileID: 2100000, guid: 261fa6f4df8d7495cb53d2db84ab1e9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00037
+    second: {fileID: 2100000, guid: 5190044efdd8e4f56812cc3cd0e8cc85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00040
+    second: {fileID: 2100000, guid: b7cfb7b1eadea4090b61f69ca179742f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00041
+    second: {fileID: 2100000, guid: a29af473ab4824bd0a8a53e33fc67059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00043
+    second: {fileID: 2100000, guid: 162bd35912f784f5a8394333587183e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00044
+    second: {fileID: 2100000, guid: c1ac28476be434c61a6f2d86bd40da2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00045
+    second: {fileID: 2100000, guid: 664a9d8448319482eb1d86df58f6d4c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00046
+    second: {fileID: 2100000, guid: fabbc3d6e8946481c98c2e33cd088242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00047
+    second: {fileID: 2100000, guid: 923477a22d8744c63ac55f9389fd0abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00049
+    second: {fileID: 2100000, guid: ba2a8d7aff4dc49139a52b9aa58f6373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BuildingMat-00050
+    second: {fileID: 2100000, guid: d0f93c5aaef79469cb09d86c63694e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 79c3c3a2e71ce4463803c813d18fb8ac, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
